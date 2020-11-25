@@ -1,6 +1,6 @@
 {
   "name": "@colorful-tones/stylelint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS Coding Standards",
   "main": "index.js",
   "homepage": "https://github.com/colorful-tones/stylelint-config#readme",
